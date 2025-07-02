@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+ibm-watson-machine-learning==1.0.312
+ibm-cos-sdk
+scikit-learn
+datasets
