@@ -57,4 +57,5 @@ After running the notebook, you’ll get:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+3. Download the test_data.csv and train_data.csv files and upload to your storage bucket.
 
